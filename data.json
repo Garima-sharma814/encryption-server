@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "Success",
+  "data": [
+    [
+      {
+        "ncert_eng_math_10_01_01_001": {
+          "A": {
+            "type": "text",
+            "value": "Rational number and irrational numbers"
+          },
+          "B": {
+            "type": "text",
+            "value": "Rational Numbers and Imaginary Numbers"
+          },
+          "C": {
+            "type": "text",
+            "value": "Irrational Numbers and Imaginary Numbers"
+          },
+          "D": {
+            "type": "text",
+            "value": "natural numbers"
+          },
+          "correct_feedback": "step 1 ;Real numbers consist of rational and irrational numbers.",
+          "feedbackImage": "",
+          "incorrect_feedback": "step 1 ;Real numbers consist of rational and irrational numbers.",
+          "q": "What do the real numbers consist of?",
+          "questionImage": ""
+        }
+      }
+    ]
+  ]
+}
